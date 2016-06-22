@@ -1,0 +1,36 @@
+body{
+  background: url("https://testdrive-archive.azurewebsites.net/performance/chalkboard/Images/EmptyChalkboard.svg");
+  height:120vh;
+}
+
+input{
+  background-color: #497959;
+  height: 9rem;
+width: 20%;
+text-align: center;
+font-size: 1.4rem;
+margin: 10% 8%;
+color:#9AA19D;
+}
+
+
+p{
+  color:#9AA19D;
+  font-size: 3rem;
+  display:inline-block;
+}
+
+button{
+  background-color: #9AA19D;
+  height: 4rem;
+    width: 12%;
+    text-align: center;
+    font-size: 1.4rem;
+}
+
+output{
+  margin: 35%;
+  font-size: 9rem;
+  color:#9AA19D;
+  opacity:.7;
+}
